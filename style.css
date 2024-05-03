@@ -46,3 +46,15 @@ header {
 .navlist a:hover {
   border-bottom: 2px solid white;
 }
+
+#menu-icon {
+  display: none;
+}
+
+#menu-toggle {
+  display: none;
+}
+
+.menu-icon-action {
+  display: none;
+}
